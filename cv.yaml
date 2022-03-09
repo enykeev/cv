@@ -4,16 +4,17 @@ version: 1
 name: Kirill Olegovich Izotov
 
 summary: |
-  I'm a software engineer passionate for building systems that improve daily lives of fellow engineers.
-  After five years making StackStorm the best automation platform on the market, I decided to take a
-  year of career break to recharge batteries and catch up on a personal goals. And now I'm ready for my
-  next journey.
+  I'm a software engineer passionate for building systems that improve daily lives of
+  fellow engineers. After five years making StackStorm the best automation platform 
+  on the market, I decided to take a year of career break to recharge batteries and
+  catch up on a personal goals. And now I'm ready for my next journey.
 
-  I'm looking for a company that help me further grow my set of engineering skills, provide me with adequate
-  challenge and work with me on elliminating chores from our daily and professional lives to create space for
-  things we truly enjoy.
+  I'm looking for a company that help me further grow my set of engineering skills,
+  provide me with adequate challenge and work with me on elliminating chores from our
+  daily and professional lives to create space for things we truly enjoy.
 
-  I'm primarily interested in a remote position, though the eventual relocation is on the table.
+  I'm primarily interested in a remote position, though the eventual relocation is on
+  the table.
 
 birthday: 1987-08-31
 nationality: Russian
@@ -53,64 +54,75 @@ projects:
   - name: StackStorm
     github: https://github.com/stackstorm/
     description: |
-      General purpose event-driven automation service. The core portion of the service handles "if this than that"
-      kind of automation, processing events from both cloud and on-premise sources, making a decision based on a set
-      of rules and workflows and performing necessary actions for the purpose of automating a certain user-specific
-      domain. Most notable users include: Netflix, who uses version of the system to perform remediation on their ten
-      thousands of Cassandra nodes; Dimension Data, that uses it to automate infrastructure in government projects and
-      provides it for their customers as a part of DiData cloud platform; Encore, that uses it in enterprise scale IT
-      infrastructure for VM & server provisioning, automation, network diagnosis, configuration and orchestration on
-      customers' public and private clouds
+      General purpose event-driven automation service. The core portion of the service
+      handles "if this than that" kind of automation, processing events from both cloud
+      and on-premise sources, making a decision based on a set of rules and workflows 
+      and performing necessary actions for the purpose of automating a certain 
+      user-specific domain. Most notable users include: Netflix, who uses version of the
+      system to perform remediation on their ten thousands of Cassandra nodes; Dimension
+      Data, that uses it to automate infrastructure in government projects and provides 
+      it for their customers as a part of DiData cloud platform; Encore, that uses it in
+      enterprise scale IT infrastructure for VM & server provisioning, automation, 
+      network diagnosis, configuration and orchestration on customers' public and private
+      clouds
     contribution: |
-      Being hired at the early stage of the startup, I had to dip my toes in almost every part of the product.
-      From initial customer demos and interviews, coming up with the idea, through several stages of prototypes,
-      a final release, two major releases and evenual aquisition. Or two.
+      Being hired at the early stage of the startup, I had to dip my toes in almost every
+      part of the product. From initial customer demos and interviews, coming up with the
+      idea, through several stages of prototypes, a final release, two major releases and 
+      evenual aquisition. Or two.
 
   - name: StackStorm Web UI
     github: https://github.com/stackstorm/st2web
     description: |
-      Basic user interface for StackStorm. Helps user to get introspection into inner workings of the system in
-      highier fidelity and often with better user experience than basic StackStorm CLI client. Also, a very important
-      marketing tool to help get the point across.
+      Basic user interface for StackStorm. Helps user to get introspection into inner 
+      workings of the system in highier fidelity and often with better user experience 
+      than basic StackStorm CLI client. Also, a very important marketing tool to help get 
+      the point across.
     contribution: |
-      Since day one, I've been responsible for the entirety of the product design and development including
-      build systems, several iterations of UI design, eventual transition from Angular 1 to React. Periodically,
-      I had to closely work with a number of contractors filling gaps in UI and UX design and guiding us through
+      Since day one, I've been responsible for the entirety of the product design and 
+      development including build systems, several iterations of UI design, eventual 
+      transition from Angular 1 to React. Periodically, I had to closely work with a 
+      number of contractors filling gaps in UI and UX design and guiding us through
       changes in corporate branding strategy.
 
   - name: StackStorm Workflow Composer
     description: |
-      WYSIWYG editor for Mistral\Orquesta workflows with live two-way binding between interactable workflow graph
-      and YAML representation of the workflow while keeping code formatting and author comments intact.
+      WYSIWYG editor for Mistral\Orquesta workflows with live two-way binding between 
+      interactable workflow graph and YAML representation of the workflow while keeping 
+      code formatting and author comments intact.
     contribution: |
-      Another project I've been soloely responsible for designing and implementing. One of most challenging front-end
-      projects I did to date, mostly due to high amount of interactivity, complexity of visual design and data
-      manipulation.
+      Another project I've been soloely responsible for designing and implementing. One 
+      of most challenging front-end projects I did to date, mostly due to high amount of 
+      interactivity, complexity of visual design and data manipulation.
 
   - name: StackStorm Exchange
     github: https://github.com/StackStorm-Exchange/
-    description: Open package management system built exclusively on top of Github and CircleCI.
+    description: |
+      Open package management system built exclusively on top of Github and CircleCI.
     contribution: |
-      Designed and implemented a system that leverages free tiers of Github and CircleCI for purpose of managing an
-      ever-growing ecosytem of publicly available StackStorm packages in a way that requires minimal amount of
-      maintenance once set up.
+      Designed and implemented a system that leverages free tiers of Github and CircleCI 
+      for purpose of managing an ever-growing ecosytem of publicly available StackStorm 
+      packages in a way that requires minimal amount of maintenance once set up.
 
   - name: OpenStack Mistral
     github: https://github.com/openstack/mistral/
     description: General purpose workflow engine.
     contribution: |
-      At early stages of the startup, I've been assigned for a three month to contribute into an opensource project
-      we've planned to extensively use as a part of StackStorm offering. My job was to carefully learn the inner
-      workings of the system, establish our team as an active contributer in the project and provide analytical
-      support to both our and Mistral teams to ensure Mistral's smooth transition through incubation process in
-      OpenStack community and having necessary set of features for it to be useful in our work.
+      At early stages of the startup, I've been assigned for a three month to contribute 
+      into an opensource project we've planned to extensively use as a part of StackStorm 
+      offering. My job was to carefully learn the inner workings of the system, establish 
+      our team as an active contributer in the project and provide analytical support to 
+      both our and Mistral teams to ensure Mistral's smooth transition through incubation 
+      process in OpenStack community and having necessary set of features for it to be 
+      useful in our work.
 
   - name: Agency
     github: https://github.com/agencyhq/agency
     description: General purpose automation service
     contribution: |
-      This was my personal project after I've decided to conclude my career break. The main goal was to refresh on
-      what I've learned during my time in StackStorm and build a similar service as I've imagined it over the years.
+      This was my personal project after I've decided to conclude my career break. The main 
+      goal was to refresh on what I've learned during my time in StackStorm and build a similar 
+      service as I've imagined it over the years.
 
 other_interests:
   - Industrial design for additive manufacturing
