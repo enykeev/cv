@@ -18,8 +18,8 @@ summary: |
 
 birthday: 1987-08-31
 nationality: Russian
-residence: Tomsk, Russia
-timezone: UTC+7
+residence: Amsterdam, Netherlands
+timezone: CET/CEST
 phone: +79528033999
 github: https://github.com/enykeev
 
@@ -31,13 +31,21 @@ education:
     url: https://tusur.ru/en
 
 experience:
+  - years: 2022-now
+    company: SentinelOne
+    position: Senior Software Engineer, DataSet team
+
+  - years: 2020-2022
+    company: Scalyr Inc.
+    position: Senior Software Engineer
+
   - years: 2017-2018
     company: Extreme Networks
-    position: Staff SW Systems Engineer, StackStorm
+    position: Staff SW Systems Engineer, StackStorm team
 
   - years: 2016-2017
     company: Brocade
-    position: Senior Software Systems Engineer, StackStorm
+    position: Senior Software Systems Engineer, StackStorm team
 
   - years: 2013-2016
     company: Stackstorm Inc.
