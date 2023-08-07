@@ -9,7 +9,7 @@ summary: |
   enjoy working on backends, devops, tooling and infrastructure. I've often been
   responsible for driving the entire projects by myself or in a small team, working
   across timezones and wearing many hats. 
-  
+
   I'm looking for a company that help me further grow my set of engineering skills,
   provide me with adequate challenge and work with me on elliminating chores from our
   daily and professional lives to create space for things we truly enjoy.
@@ -78,6 +78,8 @@ projects:
       I spent countless hours fixing flaky tests, Jenkins pipeline issues and finding
       ways to improve our internal application metric and interaction logging to aid
       decision-making and incident response processes.
+    buzzwords: [typescript, react, recoil, cypress, jenkins, dataset, docker,
+      OpenTelemetry, Github Actions, webpack, highcharts]
 
   - name: Scalyr Admin
     description: |
@@ -99,6 +101,8 @@ projects:
       took over the responsibility of charging credit cards and sending email invoices.
       While the process is still not entirely automated, it is now fully codified and takes
       a fraction of the time and effort required.
+    buzzwords: [typescript, react, parceljs, event sourcing, nodejs, kafka, postgres,
+      docker, k8s, kustomize, argocd, prometheus, worker threads, passport, okta]
 
   - name: StackStorm
     github: https://github.com/stackstorm/
@@ -124,8 +128,11 @@ projects:
       transition from Angular 1 to React. Periodically, I had to closely work with a 
       number of contractors filling gaps in UI and UX design and guiding us through
       changes in corporate branding strategy.
+    buzzwords: [angularjs, react, redux, gulp, python, mongodb, rabbitmq, zombiejs,
+      CircleCI]
 
   - name: StackStorm Workflow Composer
+    github: https://github.com/StackStorm/st2flow
     description: |
       WYSIWYG editor for Mistral\Orquesta workflows with live two-way binding between 
       interactable workflow graph and YAML representation of the workflow while keeping 
@@ -134,6 +141,7 @@ projects:
       Another project I've been soloely responsible for designing and implementing. One 
       of most challenging front-end projects I did to date, mostly due to high amount of 
       interactivity, complexity of visual design and data manipulation.
+    buzzwords: [react, svg, d3, lerna, flow]
 
   - name: StackStorm Exchange
     github: https://github.com/StackStorm-Exchange/
@@ -143,6 +151,7 @@ projects:
       Designed and implemented a system that leverages free tiers of Github and CircleCI 
       for purpose of managing an ever-growing ecosytem of publicly available StackStorm 
       packages in a way that requires minimal amount of maintenance once set up.
+    buzzwords: [Github, CircleCI]
 
   - name: OpenStack Mistral
     github: https://github.com/openstack/mistral/
@@ -155,6 +164,7 @@ projects:
       both our and Mistral teams to ensure Mistral's smooth transition through incubation 
       process in OpenStack community and having necessary set of features for it to be 
       useful in our work.
+    buzzwords: [oss, openstack, python, sqlalchemy]
 
   - name: Agency
     github: https://github.com/agencyhq/agency
@@ -163,6 +173,7 @@ projects:
       This was my personal project after I've decided to conclude my career break. The main 
       goal was to refresh on what I've learned during my time in StackStorm and build a similar 
       service as I've imagined it over the years.
+    buzzwords: [node, passport, prometheus, rpc, postgres, rabbitmq, vm2]
 
 other_interests:
   - Industrial design for additive manufacturing
